@@ -33,14 +33,14 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 
 ### 🔌 IDE/Editor Extensions
 
-| Tool | Description | Highlights | Pricing | Free Tier Limit | Size (Valuation) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **[GitHub Copilot Extension](https://github.com/features/copilot)** | AI pair programmer extension for VS Code, JetBrains, Visual Studio, and Neovim. | Code completion, chat, and inline edits. | From $10/mo (Individual), $19/user/mo (Business), $39/user/mo (Enterprise) | 2,000 completions/mo, 50 premium requests/mo (free for verified students/teachers/OSS maintainers) | **$3.5T** (Microsoft) |
-| **[Amazon Q Developer Extension](https://aws.amazon.com/q/developer/)** | AWS-native assistant extension for VS Code and JetBrains IDEs. | Code generation, explaining code, security vulnerability scanning. | $19/user/mo (Pro) | 50 chat interactions/mo, 1,000 LOC transformation/mo, 25 account queries/mo | **$2.1T** (Amazon) |
-| **[Cody by Sourcegraph](https://sourcegraph.com/cody)** | AI coding assistant extension using Sourcegraph's code search engine. | Great context retrieval, multi-model selection (Claude, GPT, Gemini). | Pro ($9/mo), Enterprise ($19/user/mo) | 500 autocompletions/mo, 20 chats/mo | **$2.6B** (Sourcegraph) |
-| **[Codeium Extension](https://codeium.com/)** | Free/Pro AI code completion and search extension supporting 40+ IDEs. | Ultra-fast autocomplete, repository-wide context search, and chat. | Individual (Free), Teams ($15/user/mo), Enterprise ($45/user/mo) | Unlimited single-user completions, limited advanced features | **$1.25B** (Codeium / Exafunction) |
-| **[Tabnine Extension](https://www.tabnine.com/)** | Context-aware AI code completion and chat extension for multiple IDEs. | Private, secure, and self-hosted/local model support. | Pro ($12/user/mo), Enterprise ($39/user/mo) | Basic completions, 90-day trial for Pro | **$150M** (Tabnine) |
-| **[Double.bot](https://www.double.bot/)** | AI coding assistant extension for VS Code. | Easy setup, fast completions, access to latest LLMs. | Pro ($20/mo) | 50 premium requests/mo | **$10M** (Seed / YC) |
+| Tool | Supported IDEs/Editors | Description | Highlights | Pricing | Free Tier Limit | Size (Valuation) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **[GitHub Copilot Extension](https://github.com/features/copilot)** | VS Code, JetBrains, Visual Studio, Neovim | AI pair programmer extension for VS Code, JetBrains, Visual Studio, and Neovim. | Code completion, chat, and inline edits. | From $10/mo (Individual), $19/user/mo (Business), $39/user/mo (Enterprise) | 2,000 completions/mo, 50 premium requests/mo (free for verified students/teachers/OSS maintainers) | **$3.5T** (Microsoft) |
+| **[Amazon Q Developer Extension](https://aws.amazon.com/q/developer/)** | VS Code, JetBrains, Visual Studio, CMD/Terminal | AWS-native assistant extension for VS Code and JetBrains IDEs. | Code generation, explaining code, security vulnerability scanning. | $19/user/mo (Pro) | 50 chat interactions/mo, 1,000 LOC transformation/mo, 25 account queries/mo | **$2.1T** (Amazon) |
+| **[Cody by Sourcegraph](https://sourcegraph.com/cody)** | VS Code, JetBrains, Neovim | AI coding assistant extension using Sourcegraph's code search engine. | Great context retrieval, multi-model selection (Claude, GPT, Gemini). | Pro ($9/mo), Enterprise ($19/user/mo) | 500 autocompletions/mo, 20 chats/mo | **$2.6B** (Sourcegraph) |
+| **[Codeium Extension](https://codeium.com/)** | VS Code, JetBrains, Neovim, Xcode, Eclipse, Emacs + 40 others | Free/Pro AI code completion and search extension supporting 40+ IDEs. | Ultra-fast autocomplete, repository-wide context search, and chat. | Individual (Free), Teams ($15/user/mo), Enterprise ($45/user/mo) | Unlimited single-user completions, limited advanced features | **$1.25B** (Codeium / Exafunction) |
+| **[Tabnine Extension](https://www.tabnine.com/)** | VS Code, JetBrains, Visual Studio, Eclipse, Sublime Text, Neovim | Context-aware AI code completion and chat extension for multiple IDEs. | Private, secure, and self-hosted/local model support. | Pro ($12/user/mo), Enterprise ($39/user/mo) | Basic completions, 90-day trial for Pro | **$150M** (Tabnine) |
+| **[Double.bot](https://www.double.bot/)** | VS Code | AI coding assistant extension for VS Code. | Easy setup, fast completions, access to latest LLMs. | Pro ($20/mo) | 50 premium requests/mo | **$10M** (Seed / YC) |
 
 ---
 
