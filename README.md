@@ -44,26 +44,18 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 
 ---
 
-## 📂 Open-Source GitHub Projects
+### 📂 Open-Source GitHub Projects
 
-### 🌟 Top Dedicated AI Editors & Agents
+### 🌟 Top Dedicated AI Editors & Extensions
 
-- **[OpenCode](https://github.com/anomalyco/opencode)** (Terminal, Neovim, VS Code) [![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers) ⌨️  
-  Terminal-native coding agent with 75+ provider support and LSP integration.
 - **[Cline CLI / Roo Code](https://github.com/cline/cline)** (VS Code) [![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers) 🤖  
   Model-agnostic autonomous agent for planning, file edits, command execution, and browser use.
 - **[Zed](https://github.com/zed-industries/zed)** (Built-in Editor) [![GitHub stars](https://img.shields.io/github/stars/zed-industries/zed?style=social&color=white)](https://github.com/zed-industries/zed/stargazers) ⚡  
   High-performance Rust-based editor with native AI capabilities. Blazing fast.
-- **[Aider](https://github.com/Aider-AI/aider)** (Terminal / Git Repo TUI) [![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers) ⌨️  
-  CLI-based AI pair programmer. Edits files directly in your Git repo. Best-in-class for terminal users.
 - **[Continue](https://github.com/continuedev/continue)** (VS Code, JetBrains) [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers) 🛠️  
   The leading open-source autopilot. Supports Ollama, local models, and custom workflows in VS Code/JetBrains.
-- **[Crush](https://github.com/charmbracelet/crush)** (Terminal TUI) [![GitHub stars](https://img.shields.io/github/stars/charmbracelet/crush?style=social&color=white)](https://github.com/charmbracelet/crush/stargazers) 🍇  
-  Charmbracelet's glamorous agentic coding TUI in Go.
 - **[Melty](https://github.com/meltylabs/melty)** (Built-in Editor) [![GitHub stars](https://img.shields.io/github/stars/meltylabs/melty?style=social&color=white)](https://github.com/meltylabs/melty/stargazers) 🍦  
   First open-source AI editor that tracks changes across your entire stack.
-- **[Mentat](https://github.com/AbanteAI/archive-old-cli-mentat)** (Terminal / CLI Editor) [![GitHub stars](https://img.shields.io/github/stars/AbanteAI/archive-old-cli-mentat?style=social&color=white)](https://github.com/AbanteAI/archive-old-cli-mentat/stargazers) 🧠  
-  AI coding assistant that lives in your terminal and understands your project context.
 
 ### 🔬 Experimental & Specialized OS Tools
 
@@ -84,7 +76,7 @@ As development complexity grows, **AI IDE Extensions** and **Agentic IDEs** prov
 - **Reduced Cognitive Load**: Let the AI handle boilerplate and complex refactors.
 - **Faster Onboarding**: AI helps explain legacy code and architectural patterns.
 - **Autonomous Bug Fixing**: Agents can reproduce bugs and suggest verified fixes.
-- **Privacy & Control**: Open-source tools like **Continue** and **Aider** allow for 100% local processing.
+- **Privacy & Control**: Open-source tools like **Continue** and **Tabby** allow for 100% local processing.
 
 ---
 
@@ -121,6 +113,6 @@ Made with ❤️ for the AI Developer Community.
 
 <!-- SEO Meta Tags -->
 <!-- 
-Keywords: AI IDE Extensions, AI IDE, Agentic Coding, Best AI IDE Extensions 2026, Open Source AI Editor, Cursor vs Windsurf, Devin AI, Aider, Continue.dev, Local LLM Coding
-Description: A curated list of the best AI-powered code editors, IDEs, and autonomous coding agents for developers. 
+Keywords: AI IDE Extensions, AI IDE, Agentic Coding, Best AI IDE Extensions 2026, Open Source AI Editor, Cursor vs Windsurf, Devin AI, Continue.dev, Local LLM Coding
+Description: A curated list of the best AI-powered code editors and IDE extensions for developers. 
 -->
